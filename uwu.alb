@@ -1,0 +1,9 @@
+// uwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwuwu... implementation in ALB 0.0.4
+// Install the interpreter at https://github.com/albertonl/alb
+
+BEGIN
+  outc 'uwu' ;
+  repeat infinity
+    outc 'uwu' ;
+  ENDLOOP
+END
