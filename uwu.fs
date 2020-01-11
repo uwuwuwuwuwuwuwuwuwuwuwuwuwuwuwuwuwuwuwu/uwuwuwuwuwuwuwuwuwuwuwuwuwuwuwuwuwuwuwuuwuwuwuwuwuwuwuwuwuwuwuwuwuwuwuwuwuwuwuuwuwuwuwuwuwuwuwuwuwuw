@@ -1,0 +1,6 @@
+: uwu ( )
+82 EMIT
+BEGIN TRUE WHILE 69 EMIT REPEAT
+;
+
+uwu
